@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/characters/soldier">
+        <file alias="attack.gif">Assets/character/soldier/attack/soldier_attack_03.gif</file>
+        <file alias="dead.png">Assets/character/soldier/die/soldier_dead.png</file>
+        <file alias="die.gif">Assets/character/soldier/die/soldier_die.gif</file>
+        <file alias="move.gif">Assets/character/soldier/moving/soldier_move_03.gif</file>
+        <file alias="stand.png">Assets/character/soldier/standing/soldier_stand_03.png</file>
+    </qresource>
+    <qresource prefix="/characters/skeleton">
+        <file alias="attack.gif">Assets/character/skeleton/attack/skeleton_attack_03.gif</file>
+        <file alias="dead.png">Assets/character/skeleton/die/skeleton_dead_01.png</file>
+        <file alias="die.gif">Assets/character/skeleton/die/skeleton_die_01.gif</file>
+        <file alias="stand.png">Assets/character/skeleton/standing/skeleton_standing_03.png</file>
+        <file alias="move.gif">Assets/character/skeleton/moving/skeleton_move_03.gif</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file alias="bg.png">Assets/background/background.png</file>
+        <file alias="brick.png">Assets/background/brick_tile_1.png</file>
+        <file alias="level.png">Assets/background/BRICKS.png</file>
+    </qresource>
+    <qresource prefix="/characters/archer">
+        <file alias="move.gif">Assets/character/archer/moving/archer_move_03.gif</file>
+        <file alias="attack.gif">Assets/character/archer/bow/archer_bow_03.gif</file>
+        <file alias="dead.png">Assets/character/archer/die/archer_dead.png</file>
+        <file alias="die.gif">Assets/character/archer/die/archer_die.gif</file>
+        <file alias="stand.png">Assets/character/archer/standing/archer_standing_03.png</file>
+    </qresource>
+    <qresource prefix="/bgm">
+        <file alias="menu.wav">Assets/bgm/menu/041415calmbgm.wav</file>
+        <file alias="battle.wav">Assets/bgm/fight/Fighting is not an option.wav</file>
+        <file alias="endgame.wav">Assets/bgm/end game/Farewell_wave.wav</file>
+        <file alias="attack.wav">Assets/bgm/attack/hit.wav</file>
+        <file alias="hurt.wav">Assets/bgm/attack/gruntsound.wav</file>
+    </qresource>
+    <qresource prefix="/tutorial">
+        <file alias="M&amp;A.png">Assets/tutorial/move&amp;attack.png</file>
+        <file>Assets/tutorial/archer.png</file>
+        <file>Assets/tutorial/skeleton.png</file>
+        <file>Assets/tutorial/soldier.png</file>
+    </qresource>
+</RCC>

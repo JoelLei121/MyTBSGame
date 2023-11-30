@@ -1,0 +1,38 @@
+Date : 2021-09-12 23:07:59
+Directory : c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources
+Total : 14 files,  1487 codes, 210 comments, 232 blanks, all 1929 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         14 |      1,487 |        210 |        232 |      1,929 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                             | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                |         14 |      1,487 |        210 |        232 |      1,929 |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                         | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources\Algorithm.cpp        | C++      |        178 |         41 |         28 |        247 |
+| c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources\AnimationManager.cpp | C++      |         64 |         27 |          9 |        100 |
+| c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources\BattleField.cpp      | C++      |        407 |         65 |         46 |        518 |
+| c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources\BattleSystem.cpp     | C++      |        171 |          9 |         15 |        195 |
+| c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources\GroundUnit.cpp       | C++      |         52 |         15 |         11 |         78 |
+| c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources\Level.cpp            | C++      |         88 |          7 |         14 |        109 |
+| c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources\LevelCreator.cpp     | C++      |         40 |          0 |          8 |         48 |
+| c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources\LevelUi.cpp          | C++      |         78 |          4 |         13 |         95 |
+| c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources\MenuUi.cpp           | C++      |         60 |          3 |         12 |         75 |
+| c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources\RightUi.cpp          | C++      |        151 |         14 |         22 |        187 |
+| c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources\RoleUnit.cpp         | C++      |        141 |         22 |         34 |        197 |
+| c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources\RoleUnitStatus.cpp   | C++      |         10 |          0 |          5 |         15 |
+| c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources\main.cpp             | C++      |         29 |          3 |          9 |         41 |
+| c:\Users\Joel Guerra\Documents\Qt project\MyTBSGame\Sources\tutorial.cpp         | C++      |         18 |          0 |          6 |         24 |
+| Total                                                                            |          |      1,487 |        210 |        232 |      1,929 |
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
